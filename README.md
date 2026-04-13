@@ -1,8 +1,16 @@
 # NetWire Sniffer Lite (C++ / Windows)
+
+![NetWire Hero](netwire.png)
+
+
 Herramienta profesional de observabilidad de red orientada a operación técnica real: captura TCP en tiempo real, enriquecimiento de destino por hostname/proveedor y alertas defensivas para análisis rápido de riesgo.
+
 
 ## Resumen ejecutivo
 Este proyecto implementa un sniffer IPv4/TCP en C++17 sobre Npcap/WinPcap, diseñado con arquitectura modular y foco en mantenibilidad.
+
+![NetWire Interfaz](interfaznetwire.png)
+
 
 Está orientado a escenarios de soporte técnico, troubleshooting de conectividad, validación post-despliegue, revisión de dependencias externas (CDN/cloud) y monitoreo defensivo inicial.
 
